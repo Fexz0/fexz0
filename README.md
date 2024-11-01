@@ -8,6 +8,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
+
 <div style="display: flex" align=center>
   <a href="https://github.com/fexz0/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=fexz0&show_icons=true&theme=dark&card_width=300" />
