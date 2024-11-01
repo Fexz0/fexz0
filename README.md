@@ -3,14 +3,15 @@
 ### Olá! Eu sou o Felipe Alves 👋
 </div>
 
-<div style="displainy: inline_block; "background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz._felipe1/)
-</div><br>
+<div align=center> 
+  <a href="https://www.instagram.com/itz._felipe1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 <div style="display: flex" align=center>
   <a href="https://github.com/fexz0/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=fexz0&show_icons=true&theme=dark&card_width=300" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fexz0&theme=dark&layout=compact&langs_count=8&card_width=300" />
 </div>
 
 <div style="displainy: inline_block; "background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
