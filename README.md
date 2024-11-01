@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Alves 👋
 
-[![log](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz._felipe1/)
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=fexz0&show_icons=true&theme=tokyonight)
 
