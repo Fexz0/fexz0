@@ -7,13 +7,14 @@
   <a href="https://www.instagram.com/itz._felipe1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 </div>
 
 <div style="display: flex" align=center>
   <a href="https://github.com/fexz0/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fexz0&show_icons=true&theme=dark&card_width=300" />
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fexz0&theme=dark&layout=compact&langs_count=8&card_width=300" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fexz0&show_icons=true&theme=radical&card_width=300" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fexz0&theme=radical&layout=compact&langs_count=8&card_width=300" />
+    <img height=202 src="https://github-profile-trophy.vercel.app/?username=fexz0&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+    <img height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=fexz0&theme=radical"/>
 </div>
 
 <div style="displainy: inline_block; "background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
