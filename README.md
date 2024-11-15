@@ -30,3 +30,8 @@
 
 Programador júnior, Apaixonado por tecnologia, Especializando em HTML, CSS, Javascript e Futuro Desenvolvedor Full Stack
 </div>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fexz0/count.svg" />
+</p>
